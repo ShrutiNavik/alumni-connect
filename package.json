@@ -19,7 +19,7 @@
     "@auth/core": "^0.37.2",
     "uploadthing": "^7.4.0",
     "react-hot-toast": "^2.4.1",
-    "nodemailer": "^7.0.7
+    "nodemailer": "^7.0.7"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
