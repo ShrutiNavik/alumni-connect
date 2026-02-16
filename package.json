@@ -12,11 +12,11 @@
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next-auth": "^4.24.7",
+    "next-auth": "^5.0.0",
+    "@auth/core": "^0.37.2",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "@vercel/postgres": "^0.10.0",
-    "@auth/core": "^0.37.2",
     "uploadthing": "^7.4.0",
     "react-hot-toast": "^2.4.1"
   },
